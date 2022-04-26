@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/spreadsheet-example/static/css/main.523f09c5.chunk.css",
+    "main.js": "/spreadsheet-example/static/js/main.b6eb22e7.chunk.js",
+    "main.js.map": "/spreadsheet-example/static/js/main.b6eb22e7.chunk.js.map",
+    "runtime-main.js": "/spreadsheet-example/static/js/runtime-main.4f108e17.js",
+    "runtime-main.js.map": "/spreadsheet-example/static/js/runtime-main.4f108e17.js.map",
+    "static/js/2.87620317.chunk.js": "/spreadsheet-example/static/js/2.87620317.chunk.js",
+    "static/js/2.87620317.chunk.js.map": "/spreadsheet-example/static/js/2.87620317.chunk.js.map",
+    "index.html": "/spreadsheet-example/index.html",
+    "precache-manifest.929f3a00ba7cee1e1b06d172679aed89.js": "/spreadsheet-example/precache-manifest.929f3a00ba7cee1e1b06d172679aed89.js",
+    "service-worker.js": "/spreadsheet-example/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/spreadsheet-example/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.87620317.chunk.js.LICENSE.txt": "/spreadsheet-example/static/js/2.87620317.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f108e17.js",
+    "static/js/2.87620317.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.b6eb22e7.chunk.js"
+  ]
+}
